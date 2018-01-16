@@ -1,0 +1,81 @@
+
+@media only screen and (max-width: 750px) {
+    .work{
+        height: 30px;
+    }
+    body, p {
+        line-height: 28px;
+        font-size: 15px;
+    }
+    .section {
+        padding: 50px 0px;
+    }
+    .section-title {
+        margin-bottom: 50px;
+    }
+    .section-title h2 {
+        line-height: 30px;
+    }
+    .caption h1 {
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .caption p {
+        line-height: 28px;
+        font-size: 15px;
+    }
+    .caption .btn, .btn, input[type='submit'] {
+        margin-bottom: 0px;
+        padding: 8px 20px;
+    }
+
+
+    .navbar-toggle .icon-bar {
+        background: #fff;
+    }
+    .navbar-toggle {
+        margin-right: 0px;
+    }
+
+    .navbar {
+        min-height: 0px;
+    }
+    .mainmenu .navbar-nav {
+        margin: 0;
+    }
+    .mainmenu .navbar-nav li {
+        float: none;
+        display: block;
+    }
+    .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 420px;
+    }
+    .navbar-toggle {}
+    a.about-button {
+        margin-top: 0;
+    }
+
+    .about-text h2,
+    .follow-me h2 {
+        font-size: 22px;
+    }
+
+    .filters li {
+        margin: 0px 10px;
+    }
+
+    .section-title h2 {
+        font-size: 23px;
+    }
+}
+
+@media only screen and (min-width: 751px) and (max-width: 1000px) {
+    .caption h1 {
+        font-size: 35px;
+    }
+}
