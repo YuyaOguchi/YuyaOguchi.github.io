@@ -86,4 +86,7 @@
         height: 200px;
         min-height: 300px;
     }
+    .table {
+        color: black;
+    }
 }
